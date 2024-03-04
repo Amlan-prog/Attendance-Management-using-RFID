@@ -1,0 +1,1 @@
+The Arduino-based RFID Attendance System is a project designed to monitor individuals' attendance using RFID cards. It employs an RFID reader to scan the IDs of RFID cards, presenting pertinent information on an LCD screen. The provided code encompasses the essential features of the system, such as card scanning, attendance tracking, and storage of relevant data.
