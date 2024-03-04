@@ -10,17 +10,17 @@ To run this code and set up the RFID Attendance System, you will need the follow
 
 
 **#Setup**
-•	Connect the RFID reader to the Arduino board using the appropriate pins (refer to the code for pin assignments).
-•	Connect the LCD display to the Arduino board using the necessary connections (refer to the code for pin assignments).
-•	If using a buzzer and LED for feedback, connect them to the appropriate pins as specified in the code.
-•	Install the necessary libraries for the RFID reader and LCD display. You can find the required libraries and installation instructions on the respective library repositories.
-•	Upload the provided code to the Arduino board using the Arduino IDE or any compatible software.
+1.	Connect the RFID reader to the Arduino board using the appropriate pins (refer to the code for pin assignments).
+2.	Connect the LCD display to the Arduino board using the necessary connections (refer to the code for pin assignments).
+3.	If using a buzzer and LED for feedback, connect them to the appropriate pins as specified in the code.
+4.	Install the necessary libraries for the RFID reader and LCD display. You can find the required libraries and installation instructions on the respective library repositories.
+5.	Upload the provided code to the Arduino board using the Arduino IDE or any compatible software. 
 
 **#Features**
-•	Supports up to 10 different RFID cards and associated names.
-•	Tracks the entry and exit times of users.
-•	Calculates the total hours and minutes of presence for each user.
-•	Stores presence data in non-volatile EEPROM memory.
-•	Provides visual feedback through an LCD display, buzzer, and LED
+1. Supports up to 10 different RFID cards and associated names.
+2. Tracks the entry and exit times of users.
+3. Calculates the total hours and minutes of presence for each user.
+4. Stores presence data in non-volatile EEPROM memory.
+5. Provides visual feedback through an LCD display, buzzer, and LED
 
 
